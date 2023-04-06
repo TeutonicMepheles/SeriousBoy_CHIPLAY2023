@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PlaneDetect.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Scenes/Connect4.unity
     guid: fd814703a4a374b42a7fa2fb8fd873a6
+  - enabled: 1
+    path: Assets/Scenes/AnchorTest.unity
+    guid: 7a37b8c2d3962432dabf417ba9b19a3f
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: aee1c107dc8fe4de7acf2ffcb50d1834, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6d8215766c8ba4f839aa12cc40dc67dd, type: 2}
